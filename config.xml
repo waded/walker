@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.waded.walker" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Walker</name>
+    <description>When the eye of the ranger is upon you</description>
+    <author email="wade@dorrells.org" href="http://waded.org">Wade Dorrell</author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
